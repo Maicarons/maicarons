@@ -1,7 +1,7 @@
 # Hello！你好！
 This is Maicarons!  
 这里是麦卡隆！
-
+[(Resume)](https://www.maicarons.cc/)
 # My Skill
 
 ### Backend
@@ -69,5 +69,5 @@ This is Maicarons!
   </a>
 </p>
 
-Hope you could come to see my resume:(making...please wait)  
-欢迎来看看我的简历：(还没弄好)  
+Hope you could come to see my resume:[(Resume)  ](https://www.maicarons.cc/)
+欢迎来看看我的简历：[(Resume)](https://www.maicarons.cc/)
