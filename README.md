@@ -1,6 +1,8 @@
-# Hello！你好！
+# Hello 侬好！
 This is Maicarons!  
-这里是麦卡隆！
+这里是麦卡隆！  
+一个来自神秘地区的开源玩家。正在准备用开源项目毁灭地球。
+
 [Resume](https://www.maicarons.cc/)
 # My Skill
 
