@@ -1,7 +1,7 @@
 # Hello 侬好！
 This is Maicarons!  
-这里是麦卡隆！  
-一个来自神秘地区的开源玩家。正在准备用开源项目毁灭地球。
+這裡是麥卡隆！
+一個來自神秘地區的開源玩家。正在準備用開源項目毀滅地球。
 
 [Resume](https://www.maicarons.cc/)
 # My Skill
@@ -72,4 +72,4 @@ This is Maicarons!
 </p>
 
 Hope you could come to see my resume:[Resume](https://www.maicarons.cc/)  
-欢迎来看看我的简历：[Resume](https://www.maicarons.cc/)
+歡迎來看看我的履歷：[Resume](https://www.maicarons.cc/)
